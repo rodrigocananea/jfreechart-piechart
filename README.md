@@ -4,5 +4,5 @@ Este é somente um código de teste para customizar o visual do gráfico "PieCha
 
 ***Prévia***
 <p align="center">
-    <img src="https://github.com/rodrigocananea/jfreechart-piechart/blob/main/previa.png" />
+    <img src="https://github.com/rodrigocananea/jfreechart-piechart/blob/main/previa.gif" />
 </p>
